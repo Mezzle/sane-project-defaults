@@ -1,5 +1,5 @@
 # Sane Defaults
 
-This is a small project designed to put together a set of sane defaults that can be copied quickly to a new project
+This has moved into a bigger set of projects - please see
 
-I might also write some scripts - but meh :)
+https://github.com/sane-defaults
